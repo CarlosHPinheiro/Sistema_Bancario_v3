@@ -1,7 +1,6 @@
 # **Desafio de Projeto**
 
 ## **Sistema Bancário com Python**
-Nível: Avançado
 
 Conteúdo: Aplicação dos conceitos de Programação Orientada a Objetos ao sistema.
 
