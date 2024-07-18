@@ -23,7 +23,7 @@ Iniciar a modelagem do sistema bancário em POO.
 
 ----
 ### Resumo do Projeto
-O projeto consiste na implementação de um sistema que execute as funcionalidades de um sistema bancário como depósitos, saques, criação de contas, etc., e que funcione de acordo com as [regras preestabelecidas](regras).
+O projeto consiste na implementação de um sistema que execute as funcionalidades de um sistema bancário como depósitos, saques, criação de contas, etc., e que funcione de acordo com as regras preestabelecidas.
 
 ----
 **Funcionalidades:**
