@@ -20,4 +20,4 @@ Iniciar a modelagem do sistema bancário em POO.
 ----
 **Diagrama de Classes UML**
 
-![UML](UML.png)
+![UML](docs/UML.png)
