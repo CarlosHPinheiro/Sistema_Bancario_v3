@@ -61,4 +61,3 @@ A organização das pastas e arquivos pode ser conferida na [estrutura do projet
 
 ----
 
-*Criado por Carlos Henrique Pinheiro*
